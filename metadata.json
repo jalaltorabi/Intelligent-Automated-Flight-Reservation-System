@@ -1,0 +1,7 @@
+{
+  "name": "Intelligent Automated Flight Reservation System",
+  "description": "A Master's Thesis implementation for an automated, personalized flight booking system with AI supervisory layers and A/B testing modules.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
